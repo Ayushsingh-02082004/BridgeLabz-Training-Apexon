@@ -2,12 +2,13 @@
 using C_BasicConcepts.DataType;
 using C_BasicConcepts.DataTypes;
 using C_BasicConcepts.Loops;
+using System.Diagnostics;
 
 namespace C_BasicConcepts
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             //Datatypes dt=new Datatypes();
@@ -58,9 +59,41 @@ namespace C_BasicConcepts
             //int z = int.Parse(Console.ReadLine());
             //m3.mthree(x, y, z);
 
-            Fibo fibo = new Fibo();
+            //Fibo fibo = new Fibo();
+            //int x = int.Parse(Console.ReadLine());
+            //fibo.fibonacci(x);
+
+            //PerfectNumber pf = new PerfectNumber();
+            //int num = int.Parse(Console.ReadLine());
+            //pf.perfectnum(num);
+
+            //PrimeNumber prno = new PrimeNumber();
+            //int num = int.Parse(Console.ReadLine());
+            //prno.primenum(num);
+
+            //Reverse rev = new Reverse();
+            //int nm = int.Parse(Console.ReadLine());
+            //rev.reversenum(nm);
+
+            //CountRandom Coupon = new CountRandom();
+            //Console.WriteLine("enter a number");
+            //int n = int.Parse(Console.ReadLine());
+            //Coupon.CouponsNumber(n);
+
+            //myStopWatch time = new myStopWatch();
+            //time.stwatch();
+
+            //Console.WriteLine("Enter the students grade :");
+            //StudentScore SC = new StudentScore();
+            //int SCORE = int.Parse(Console.ReadLine());
+            //SC.score(SCORE);
+
+            celsiusFahrenheit changtemp = new celsiusFahrenheit();
+            Console.WriteLine("Enter 0 for celsius or  1 for Fahrenheit  ");
             int x = int.Parse(Console.ReadLine());
-            fibo.fibonacci(x);
+            Console.WriteLine("Enter the temperature");
+            int temp = int.Parse(Console.ReadLine());
+            changtemp.changetemperature(x, temp);
 
         }
     }

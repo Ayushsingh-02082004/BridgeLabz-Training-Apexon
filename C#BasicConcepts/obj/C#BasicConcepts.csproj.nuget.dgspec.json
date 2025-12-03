@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\C#BasicConcepts.csproj": {}
+    "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\C#BasicConcepts.csproj": {}
   },
   "projects": {
-    "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\C#BasicConcepts.csproj": {
+    "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\C#BasicConcepts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\C#BasicConcepts.csproj",
+        "projectUniqueName": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\C#BasicConcepts.csproj",
         "projectName": "C#BasicConcepts",
-        "projectPath": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\C#BasicConcepts.csproj",
+        "projectPath": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\C#BasicConcepts.csproj",
         "packagesPath": "C:\\Users\\singh\\.nuget\\packages\\",
-        "outputPath": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\obj\\",
+        "outputPath": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\C#BasicConcepts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
