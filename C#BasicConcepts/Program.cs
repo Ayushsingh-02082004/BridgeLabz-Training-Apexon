@@ -1,4 +1,5 @@
-﻿using C_BasicConcepts.ConditionalStatements;
+﻿using C_BasicConcepts.Array;
+using C_BasicConcepts.ConditionalStatements;
 using C_BasicConcepts.DataType;
 using C_BasicConcepts.DataTypes;
 using C_BasicConcepts.Loops;
@@ -88,12 +89,77 @@ namespace C_BasicConcepts
             //int SCORE = int.Parse(Console.ReadLine());
             //SC.score(SCORE);
 
-            celsiusFahrenheit changtemp = new celsiusFahrenheit();
-            Console.WriteLine("Enter 0 for celsius or  1 for Fahrenheit  ");
-            int x = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the temperature");
-            int temp = int.Parse(Console.ReadLine());
-            changtemp.changetemperature(x, temp);
+            //celsiusFahrenheit changtemp = new celsiusFahrenheit();
+            //Console.WriteLine("Enter 0 for celsius or  1 for Fahrenheit  ");
+            //int x = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the temperature");
+            //int temp = int.Parse(Console.ReadLine());
+            //changtemp.changetemperature(x, temp);
+
+            //MovieTicket mt = new MovieTicket();
+            //Console.WriteLine("Enter the age : ");
+            //int age = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the Price: ");
+            //int price = int.Parse(Console.ReadLine());
+            //mt.movieticket(age, price);
+
+            //BasicCalculator calc = new BasicCalculator();
+            //Console.WriteLine("Enter the two number to perform operation");
+            //int x = int.Parse(Console.ReadLine());
+            //int y = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter the character a for add s for subtract m for multiply d for division");
+            //char ch = Console.ReadKey().KeyChar;
+            //calc.calcuator(x , y , ch);
+
+            //loginsystem lg = new loginsystem();
+            //Console.WriteLine("Enter the user");
+            //String user = Console.ReadLine();
+            //Console.WriteLine("Enter the password");
+            //String pass = Console.ReadLine(); 
+            //lg.login(user, pass);
+
+            //RockPaperCissor show = new RockPaperCissor();
+            //Console.WriteLine("Give only input rock , paper , cissor ");
+            //String str = Console.ReadLine();
+            //show.rpc(str);
+
+            //libraryBookOverdue due = new libraryBookOverdue();
+            //Console.WriteLine("Enter the no of days of late submission of book");
+            //int days = int.Parse(Console.ReadLine());
+            //due.bookoverdue(days);
+
+            //TrafficIight lights = new TrafficIight();
+            //Console.WriteLine("Enter the seconds for trafic");
+            //int sec = int.Parse(Console.ReadLine());
+            //lights.light(sec);
+
+            //pairwithagivensum targetsum = new pairwithagivensum();
+            //Console.WriteLine("Enter your target : ");
+            //int target = int.Parse(Console.ReadLine());
+            //int[] arr = { 2, 3,4, 5, 6, 7 };
+            //targetsum.pairs(arr, target);
+
+            //missingnumber mn = new missingnumber();
+            //int[] arr = { 1,2, 3, 4, 5, 6, 7 };
+            //Console.WriteLine("Initial array is");
+            //foreach (int x in arr) Console.Write(x + " ");
+            //mn.missno(arr);
+
+            //MoveZeroesEnd toend = new MoveZeroesEnd();
+            //int[] arr = { 0, 0, 1, 5, 0, 12, 13,0 };
+            //Console.WriteLine("Initial array is : ");
+            //foreach (int x in arr) Console.Write(x + " ");
+            //toend.totheend(arr);
+
+            IntersectionOfTwoArrays intersect = new IntersectionOfTwoArrays();
+            int[] arr = { 1, 2, 2, 1 };
+            int[] arr2 = { 2, 2 };
+            Console.WriteLine("Initial array is : ");
+            foreach (int x in arr) Console.Write(x + " ");
+            Console.WriteLine();
+            foreach (int x in arr2) Console.Write(x + " ");
+            intersect.Intersection(arr, arr2);
+
 
         }
     }
