@@ -2,6 +2,8 @@
 # BridgeLabz-Training-Apexon
 
 ## Daily Logs
+Date 02/12/2025
+Concepts converd today : completed conditionals and loops and solved problems on array.
 
 Date 02/12/2025
 
