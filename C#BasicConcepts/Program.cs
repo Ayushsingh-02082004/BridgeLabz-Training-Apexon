@@ -3,6 +3,7 @@ using C_BasicConcepts.ConditionalStatements;
 using C_BasicConcepts.DataType;
 using C_BasicConcepts.DataTypes;
 using C_BasicConcepts.Loops;
+using C_BasicConcepts.Strings;
 using System.Diagnostics;
 
 namespace C_BasicConcepts
@@ -151,15 +152,49 @@ namespace C_BasicConcepts
             //foreach (int x in arr) Console.Write(x + " ");
             //toend.totheend(arr);
 
-            IntersectionOfTwoArrays intersect = new IntersectionOfTwoArrays();
-            int[] arr = { 1, 2, 2, 1 };
-            int[] arr2 = { 2, 2 };
-            Console.WriteLine("Initial array is : ");
-            foreach (int x in arr) Console.Write(x + " ");
-            Console.WriteLine();
-            foreach (int x in arr2) Console.Write(x + " ");
-            intersect.Intersection(arr, arr2);
+            //IntersectionOfTwoArrays intersect = new IntersectionOfTwoArrays();
+            //int[] arr = { 1, 2, 2, 1 };
+            //int[] arr2 = { 2, 2 };
+            //Console.WriteLine("Initial array is : ");
+            //foreach (int x in arr) Console.Write(x + " ");
+            //Console.WriteLine();
+            //foreach (int x in arr2) Console.Write(x + " ");
+            //intersect.Intersection(arr, arr2);
 
+            //RotatearrayBykPoints rotate = new RotatearrayBykPoints();
+            //Console.WriteLine("We will rotate the array by k points");
+            //int[] arr = { 1, 2, 3, 4, 5, 6 };
+            //int k = 2;
+            //rotate.reverse(arr , k);
+
+            //LongestConsecutiveSubsequence sub = new LongestConsecutiveSubsequence();
+            //int[] arr = { 100, 4, 200, 1, 2, 3, 4 };
+            //Console.WriteLine("Initial array is  : ");
+            //foreach(int i in arr) Console.Write(i + " ");
+            //Console.WriteLine();
+            //sub.Squs(arr);
+
+            //StringReverse sr = new StringReverse();
+            //String Str = "Ayush";
+            //Console.WriteLine($"ORiginal string is : {Str}");
+            //sr.rev(Str);
+
+            //PlaindromeCeck pl = new PlaindromeCeck();
+            //String str = "abcba";
+            //pl.plc(str);
+
+            //Anagramcheck anagram = new Anagramcheck();
+            //String str1 = "Ayush";
+            //String str2 = "hsuyA";
+            //anagram.ana(str1, str2);
+
+            //LongestSubstringWithoutRepeatingchar lg = new LongestSubstringWithoutRepeatingchar();
+            //String str = "abcabcbb";
+            //lg.lgstr(str);
+
+            StringCompression sc = new StringCompression();
+            String str = "aaabbcd";
+            sc.compress(str);
 
         }
     }
