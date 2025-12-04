@@ -10,4 +10,7 @@ Concepts coverd today : Basic of .NET and C# ,  Conditional Statements  , Loops 
 Date 03/12/2025
 Concepts converd today : completed conditionals and loops and solved problems on array.
 
+Date 04/12/2025
+Concepts Coverd today : Solved problems on String and array.
+
 
