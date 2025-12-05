@@ -192,9 +192,29 @@ namespace C_BasicConcepts
             //String str = "abcabcbb";
             //lg.lgstr(str);
 
-            StringCompression sc = new StringCompression();
-            String str = "aaabbcd";
-            sc.compress(str);
+            //StringCompression sc = new StringCompression();
+            //String str = "aaabbcd";
+            //sc.compress(str);
+
+            //firstnonrepeatingchar repeat = new firstnonrepeatingchar();
+            //String str = "aklhiuohgiaAKGIK";
+            //repeat.fnrc(str);
+
+            //StringRotation rotation = new StringRotation();
+            //string s1 = "waterbottle";
+            //string s2 = "erbottlewat";
+            //rotation.rotate(s1, s2);
+                
+            //LongestPalendromicSubstring lc = new LongestPalendromicSubstring();
+            //String str = "ABRBADAADAB";
+            //lc.LongestPstr(str);
+
+            kmpalgorithm algo = new kmpalgorithm();
+            String str = " abababaca";
+            String Pattern = "ababaca";
+            algo.Kmp(str, Pattern);
+
+
 
         }
     }
