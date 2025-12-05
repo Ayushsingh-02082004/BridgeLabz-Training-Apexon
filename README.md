@@ -13,4 +13,7 @@ Concepts converd today : completed conditionals and loops and solved problems on
 Date 04/12/2025
 Concepts Coverd today : Solved problems on String and array.
 
+Date 05/12/2025
+Concepts Coverd today : Solved kmp algorithm and constructors and theory of string .
+
 
