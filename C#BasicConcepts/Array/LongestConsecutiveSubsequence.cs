@@ -14,7 +14,7 @@ namespace C_BasicConcepts.Array
             int maxlength = 0;
             int start = 0;
 
-            foreach (int num in arr)
+            foreach (int num in set)
             {
                 if (!set.Contains(num - 1))
                 {

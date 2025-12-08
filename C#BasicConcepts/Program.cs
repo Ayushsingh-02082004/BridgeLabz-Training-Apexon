@@ -1,4 +1,5 @@
-﻿using C_BasicConcepts.Array;
+﻿using C_BasicConcepts._2D_Array;
+using C_BasicConcepts.Array;
 using C_BasicConcepts.ConditionalStatements;
 using C_BasicConcepts.DataType;
 using C_BasicConcepts.DataTypes;
@@ -204,16 +205,26 @@ namespace C_BasicConcepts
             //string s1 = "waterbottle";
             //string s2 = "erbottlewat";
             //rotation.rotate(s1, s2);
-                
+
             //LongestPalendromicSubstring lc = new LongestPalendromicSubstring();
             //String str = "ABRBADAADAB";
             //lc.LongestPstr(str);
 
-            kmpalgorithm algo = new kmpalgorithm();
-            String str = " abababaca";
-            String Pattern = "ababaca";
-            algo.Kmp(str, Pattern);
+            //kmpalgorithm algo = new kmpalgorithm();
+            //String str = " abababaca";
+            //String Pattern = "ababaca";
+            //algo.Kmp(str, Pattern);
 
+            //TransposeMatrix tp = new TransposeMatrix();
+            //int[,] matrix = new int[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+            //tp.transpose(matrix);
+
+            //Rotateby90 rt = new Rotateby90();
+            //int[,] matrix = new int[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+            //rt.rotate90(matrix);
+
+            Multiplymatrix mul = new Multiplymatrix();
+            mul.multiplymat();
 
 
         }
