@@ -1,0 +1,15 @@
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\oop.AssemblyInfoInputs.cache
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\oop.AssemblyInfo.cs
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\oop.csproj.CoreCompileInputs.cache
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\oop.sourcelink.json
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\bin\Debug\net8.0\oop.exe
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\bin\Debug\net8.0\oop.deps.json
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\bin\Debug\net8.0\oop.runtimeconfig.json
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\bin\Debug\net8.0\oop.dll
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\bin\Debug\net8.0\oop.pdb
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\oop.dll
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\refint\oop.dll
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\oop.pdb
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\oop.genruntimeconfig.cache
+E:\Bridge Lab\BridgeLabz-Training-Apexon\oop\obj\Debug\net8.0\ref\oop.dll
