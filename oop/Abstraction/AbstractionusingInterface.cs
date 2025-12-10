@@ -8,31 +8,31 @@ using System.Threading.Tasks;
 
 namespace oop.Abstraction
 {
-    class Program
-    {
+    //class Program
+    //{
 
-        //Using the interface, we can achieve 100% abstraction.Now, the user will only know the services that are defined in the interface,
-        //but how the services are implemented, the user will never know.This is how we can implement abstraction by hiding
-        //implementation details from the user. Here, the user will only know about IBank, but the user will not know about the SBI and AXIX Classes.
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Transaction doing SBI Bank");
-            IBank sbi = BankFactory.GetBankObject("SBI");
-            sbi.ValidateCard();
-            sbi.WithdrawMoney();
-            sbi.CheckBalanace();
-            sbi.BankTransfer();
-            sbi.MiniStatement();
-            Console.WriteLine("\nTransaction doing AXIX Bank");
-            IBank AXIX = BankFactory.GetBankObject("AXIX");
-            AXIX.ValidateCard();
-            AXIX.WithdrawMoney();
-            AXIX.CheckBalanace();
-            AXIX.BankTransfer();
-            AXIX.MiniStatement();
-            Console.Read();
-        }
-    }
+    //    //Using the interface, we can achieve 100% abstraction.Now, the user will only know the services that are defined in the interface,
+    //    //but how the services are implemented, the user will never know.This is how we can implement abstraction by hiding
+    //    //implementation details from the user. Here, the user will only know about IBank, but the user will not know about the SBI and AXIX Classes.
+    //    static void Main(string[] args)
+    //    {
+    //        Console.WriteLine("Transaction doing SBI Bank");
+    //        IBank sbi = BankFactory.GetBankObject("SBI");
+    //        sbi.ValidateCard();
+    //        sbi.WithdrawMoney();
+    //        sbi.CheckBalanace();
+    //        sbi.BankTransfer();
+    //        sbi.MiniStatement();
+    //        Console.WriteLine("\nTransaction doing AXIX Bank");
+    //        IBank AXIX = BankFactory.GetBankObject("AXIX");
+    //        AXIX.ValidateCard();
+    //        AXIX.WithdrawMoney();
+    //        AXIX.CheckBalanace();
+    //        AXIX.BankTransfer();
+    //        AXIX.MiniStatement();
+    //        Console.Read();
+    //    }
+    //}
     public interface IBank
     {
         void ValidateCard();
