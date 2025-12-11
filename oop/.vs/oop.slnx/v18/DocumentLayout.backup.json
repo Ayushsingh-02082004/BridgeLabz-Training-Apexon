@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|e:\\bridge lab\\bridgelabz-training-apexon\\oop\\inheritance\\hierarchical inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|solutionrelative:inheritance\\hierarchical inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|e:\\bridge lab\\bridgelabz-training-apexon\\oop\\polymorphism\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|solutionrelative:polymorphism\\operatoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|e:\\bridge lab\\bridgelabz-training-apexon\\oop\\inheritance\\singlelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|solutionrelative:inheritance\\singlelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|e:\\bridge lab\\bridgelabz-training-apexon\\oop\\inheritance\\multilevel inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|solutionrelative:inheritance\\multilevel inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|e:\\bridge lab\\bridgelabz-training-apexon\\oop\\polymorphism\\constructoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34A73C2-3F63-A245-DA7C-F7C32218076C}|oop.csproj|solutionrelative:polymorphism\\constructoroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "singleLevel.cs",
-              "DocumentMoniker": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Inheritance\\singleLevel.cs",
-              "RelativeDocumentMoniker": "Inheritance\\singleLevel.cs",
-              "ToolTip": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Inheritance\\singleLevel.cs",
-              "RelativeToolTip": "Inheritance\\singleLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T19:50:38.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Multilevel Inheritance.cs",
-              "DocumentMoniker": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Inheritance\\Multilevel Inheritance.cs",
-              "RelativeDocumentMoniker": "Inheritance\\Multilevel Inheritance.cs",
-              "ToolTip": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Inheritance\\Multilevel Inheritance.cs",
-              "RelativeToolTip": "Inheritance\\Multilevel Inheritance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T19:50:36.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "hierarchical inheritance.cs",
-              "DocumentMoniker": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Inheritance\\hierarchical inheritance.cs",
-              "RelativeDocumentMoniker": "Inheritance\\hierarchical inheritance.cs",
-              "ToolTip": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Inheritance\\hierarchical inheritance.cs*",
-              "RelativeToolTip": "Inheritance\\hierarchical inheritance.cs*",
-              "ViewState": "AgIAABoAAAAAAAAAAAA3wCwAAAAWAAAAAAAAAA==",
+              "Title": "OperatorOverloading.cs",
+              "DocumentMoniker": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Polymorphism\\OperatorOverloading.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\OperatorOverloading.cs",
+              "ToolTip": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Polymorphism\\OperatorOverloading.cs",
+              "RelativeToolTip": "Polymorphism\\OperatorOverloading.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T19:47:32.628Z",
+              "WhenOpened": "2025-12-11T11:39:07.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConstructorOverloading.cs",
+              "DocumentMoniker": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Polymorphism\\ConstructorOverloading.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\ConstructorOverloading.cs",
+              "ToolTip": "E:\\Bridge Lab\\BridgeLabz-Training-Apexon\\oop\\Polymorphism\\ConstructorOverloading.cs",
+              "RelativeToolTip": "Polymorphism\\ConstructorOverloading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T10:11:45.469Z",
               "EditorCaption": ""
             }
           ]
