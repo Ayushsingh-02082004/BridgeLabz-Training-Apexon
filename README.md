@@ -28,6 +28,11 @@ Concepts Coverd today : Theory Review , and destructors and garbage collector , 
 Date 10/12/2025
 Concepts Coverd today :oops - Encapsulation , poco class , Abstraction (Abstrace class , methord) , Interface.
 
+Date 11/12/2025
+What I've done today :OOPs - inheritance, its types, diamond problem,IsA-HasA, Generilization,specialization , polymorphism-methord ,operator overloading.
+
+
+
 
 
 
