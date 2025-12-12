@@ -31,6 +31,9 @@ Concepts Coverd today :oops - Encapsulation , poco class , Abstraction (Abstrace
 Date 11/12/2025
 What I've done today :OOPs - inheritance, its types, diamond problem,IsA-HasA, Generilization,specialization , polymorphism-methord ,operator overloading.
 
+Date 12/12/25
+What i've done today: Completed oops , static class , reference and variable and instance of class, started snake&ladder problem and inheritance.
+
 
 
 
