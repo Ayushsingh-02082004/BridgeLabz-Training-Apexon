@@ -1,0 +1,14 @@
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\bin\Debug\net10.0\MulticastDelegate.exe
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\bin\Debug\net10.0\MulticastDelegate.deps.json
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\bin\Debug\net10.0\MulticastDelegate.runtimeconfig.json
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\bin\Debug\net10.0\MulticastDelegate.dll
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\bin\Debug\net10.0\MulticastDelegate.pdb
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\MulticastDelegate.AssemblyInfoInputs.cache
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\MulticastDelegate.AssemblyInfo.cs
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\MulticastDelegate.dll
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\refint\MulticastDelegate.dll
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\MulticastDelegate.pdb
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\MulticastDelegate.genruntimeconfig.cache
+D:\BridgeLabs\Data Structures\MulticastDelegate\MulticastDelegate\obj\Debug\net10.0\ref\MulticastDelegate.dll
