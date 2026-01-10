@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Reviewbook/Reviewbook.csproj" />
+  <Project Path="testcase/testcase.csproj" />
+</Solution>
