@@ -35,6 +35,11 @@ Date 12/12/25
 What i've done today: Completed oops , static class , reference and variable and instance of class, started snake&ladder problem and inheritance.
 
 
+Date 10/01/26
+What i've done till now : Completed oops , events delegates , multithreading , filehandling and events and delegates and sql and database and generics and collections .
+
+
+
 
 
 
